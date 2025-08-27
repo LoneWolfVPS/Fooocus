@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "cyberrealisticXL_v53.safetensors": "https://huggingface.co/Felldude/LongCLIP_Model_Merges/resolve/main/cyberrealisticXL_v60_DCLIP_.safetensors"
+        "cyberrealisticXL_v60_DCLIP_.safetensors": "https://huggingface.co/Felldude/LongCLIP_Model_Merges/resolve/main/cyberrealisticXL_v60_DCLIP_.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
