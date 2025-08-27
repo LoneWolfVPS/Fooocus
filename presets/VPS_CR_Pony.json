@@ -1,5 +1,5 @@
 {
-    "default_model": "cyberrealisticXL_v53.safetensors",
+    "default_model": "cyberrealisticXL_v60_DCLIP_.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
@@ -44,7 +44,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "cyberrealisticXL_v53.safetensors": "https://huggingface.co/LupusNyx/lxds/resolve/main/cyberrealisticXL_v53.safetensors"
+        "cyberrealisticXL_v53.safetensors": "https://huggingface.co/Felldude/LongCLIP_Model_Merges/resolve/main/cyberrealisticXL_v60_DCLIP_.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
